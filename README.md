@@ -15,6 +15,7 @@ ____
     - Верстка писем
 - JavaScript
 - TypeScript
+- Регулярные Выражения
 - ReactJS
 - NPM
 - FIGMA
@@ -24,13 +25,13 @@ ____
    - Swiper
    - GreenSock
 - Система контроля версий Git
-- СборщикиЖ
+- Сборщики:
    - WebPack
    - Gulp
 - Английский (начальный уровень)
 ____
 ### Обучаюсь в компании Skillbox на профессию "Fullstack web-developer".
 ____
-- Улучшить навыки в библиотеке ReactJS
-- Улучшить навыки в TypeScript
+- Улучшить навыки по ReactJS
+- Улучшить навыки по TypeScript
 - Изучить Redux и так далее
