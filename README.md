@@ -6,6 +6,7 @@ ____
 ____
 ### Мои навыки:
 - HTML (+Pug), CSS (+SCSS):
+    - Flexbox/Grid
     - PixelPerfect
     - Адаптивность
     - Доступность
