@@ -16,8 +16,8 @@ ____
     - Верстка писем
 - JavaScript
 - TypeScript
+- ReactJS | Redux | Router
 - Регулярные Выражения
-- ReactJS
 - NPM
 - FIGMA
 - Библиотеки:
@@ -33,6 +33,6 @@ ____
 ____
 ### Обучаюсь в компании Skillbox на профессию "Fullstack web-developer".
 ____
-- Улучшить навыки по ReactJS
+<!-- - Улучшить навыки по ReactJS
 - Улучшить навыки по TypeScript
-- Изучить Redux и так далее
+- Изучить Redux и так далее -->
