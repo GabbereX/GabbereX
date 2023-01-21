@@ -9,7 +9,13 @@ ____
 - HTML (+Pug), CSS (+SCSS)
 - JavaScript
 - TypeScript
-- React: Redux/Redux-Toolkit/RTK Query, Zustand | React Router | Styled-Components | Axios | Formik | StoryBook
+- React: 
+   - Redux/Redux-Toolkit/RTK Query, Zustand
+   - React Router
+   - Styled-Components
+   - Axios
+   - Formik
+   - StoryBook
 - Regex
 - Figma
 - Git
