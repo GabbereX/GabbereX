@@ -1,38 +1,20 @@
-# Меня зовут Александр Козаченко. Мне 33 года, я живу в городе Симферополь.
+# Александр Козаченко, Симферополь, 33 года
 ____
-# Я Junior frontend-developer.
+# Junior Frontend Developer
 ____
-## Высшее образование: "Запарожский Национальный Университет" - "Финансы".
+## Высшее образование: "Запарожский Национальный Университет" - "Финансы"
+## Диплом о профессиональной переподготовке. ЧОУ ДПО "Образовательные технологии Skillbox (Коробка навыков)". JavaScript разработчик.
 ____
-### Мои навыки:
-- HTML (+Pug), CSS (+SCSS):
-    - Flexbox/Grid
-    - PixelPerfect
-    - Адаптивность
-    - Доступность
-    - Кросс-браузерность
-    - БЭМ
-    - Кастомные элементы
-    - Верстка писем
+### Навыки:
+- HTML (+Pug), CSS (+SCSS)
 - JavaScript
 - TypeScript
-- ReactJS | Redux | Router
-- Регулярные Выражения
-- NPM
-- FIGMA
-- Библиотеки:
-   - Bootstrap
-   - jQuery
-   - Swiper
-   - GreenSock
-- Система контроля версий Git
+- React: Redux/Redux-Toolkit/RTK Query, Zustand | React Router | Styled-Components | Axios | Formik | StoryBook
+- Regex
+- Figma
+- Git
 - Сборщики:
    - WebPack
+   - Vite
    - Gulp
 - Английский (начальный уровень)
-____
-### Обучаюсь в компании Skillbox на профессию "Fullstack web-developer".
-____
-<!-- - Улучшить навыки по ReactJS
-- Улучшить навыки по TypeScript
-- Изучить Redux и так далее -->
