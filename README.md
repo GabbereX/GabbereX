@@ -11,10 +11,10 @@ ____
 - TypeScript
 - React: 
    - Redux/Redux-Toolkit/RTK Query, Zustand
-   - React Router
-   - Styled-Components
+   - React Router Dom
    - Axios
-   - Formik
+   - Formik / React Hook Form
+   - Styled-Components
    - StoryBook
 - Regex
 - Figma
