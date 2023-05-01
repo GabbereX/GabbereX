@@ -10,13 +10,15 @@ ____
 - JavaScript
 - TypeScript
 - React: 
-   - Redux/Redux-Toolkit/RTK Query, Zustand
+   - Redux/Redux-Toolkit/RTK Query, Zustand, MobX
    - React Router Dom
    - Axios
    - Formik / React Hook Form
    - Styled-Components
    - StoryBook
+   - Next.JS
 - Regex
+- Eslint
 - Figma
 - Git
 - Сборщики:
